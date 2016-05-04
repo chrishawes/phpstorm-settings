@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="625cc659-3132-4eba-8230-40e6ada35a4f" name="BaseKit" url="http://editor.basekit.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
