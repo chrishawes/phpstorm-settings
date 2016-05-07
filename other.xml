@@ -1,0 +1,26 @@
+<application>
+  <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="53dce153b6612e88c89b065a" name="cue.fm" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="53dce153b6612e88c89b065b" name="To Do" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="53223c7db9099e77573936f3" name="chawes" />
+      </option>
+      <password>dfcbdf92df98dfcbdf9adf98df9adf9ddf92df93df9ddf9fdfc9df93dfc9df93dfc8df9bdf99df9adf9fdf9ddfcbdfccdfc8dfcbdf98df99df9fdf9fdf9edf98df9adf9cdf92df98dfc8df93df9adf9ddf9cdf92df99dfc8df92df98df9cdfc8df9bdfcbdfc9df98df92df98dfccdf9edfc8df9adf9cdfcbdfc9df9fdfccdf92</password>
+      <option name="includeAllCards" value="true" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
+  </component>
+</application>
