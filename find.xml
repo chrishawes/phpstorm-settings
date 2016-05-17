@@ -13,6 +13,7 @@
       <mask>*.php</mask>
       <mask>*.es6</mask>
       <mask>*.scss</mask>
+      <mask>index.twig</mask>
     </recentFileMasks>
   </component>
 </application>
