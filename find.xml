@@ -12,6 +12,9 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.es6</mask>
+      <mask>*.scss</mask>
+      <mask>index.twig</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
