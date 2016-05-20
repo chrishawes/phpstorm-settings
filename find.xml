@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/chris/code/basekit/assets/public/responsive/panels/PagesPanel/PagesPanelView.es6'" />
-    <option name="defaultScopeName" value="File '/Users/chris/code/basekit/assets/public/responsive/panels/PagesPanel/PagesPanelView.es6'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/chris/code/basekit/assets/public/responsive/panels/PagesPanel/PagesPanelView.es6'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,11 +14,11 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>*.es6</mask>
       <mask>*.scss</mask>
       <mask>index.twig</mask>
       <mask>*.twig</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
