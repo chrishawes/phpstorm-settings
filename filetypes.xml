@@ -2,11 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="doctrine" type="PHP" />
-      <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
-      <mapping pattern="check" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping ext="ctp" type="PHP" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="check" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
