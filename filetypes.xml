@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="doctrine" type="PHP" />
+      <mapping pattern="fapoc" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern="check" type="PLAIN_TEXT" />
