@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="queue" type="PHP" />
       <mapping pattern="doctrine" type="PHP" />
       <mapping pattern="fapoc" type="PHP" />
       <mapping ext="ctp" type="PHP" />
