@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="queue" type="PHP" />
       <mapping pattern="doctrine" type="PHP" />
+      <mapping pattern="consume" type="PHP" />
       <mapping pattern="fapoc" type="PHP" />
       <mapping pattern="worker" type="PHP" />
       <mapping ext="ctp" type="PHP" />
