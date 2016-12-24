@@ -1,4 +1,8 @@
 <scheme name="Material Theme - Darker - Hack Font" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="modified">2016-12-16T11:36:58</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_LIGATURES" value="true" />
