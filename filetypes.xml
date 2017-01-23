@@ -15,6 +15,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="check" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="dist" type="YAML" />
     </extensionMap>
