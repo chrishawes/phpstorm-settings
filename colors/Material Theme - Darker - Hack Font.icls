@@ -1,12 +1,13 @@
 <scheme name="Material Theme - Darker - Hack Font" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2017-02-10T15:32:42</property>
+    <property name="modified">2017-02-13T20:16:20</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
-  <option name="EDITOR_FONT_SIZE" value="26" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="26" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
