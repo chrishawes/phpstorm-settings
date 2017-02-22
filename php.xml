@@ -4,9 +4,4 @@
       <PhpCSConfiguration />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/local/bin/php" id="401ceff4-2ca2-4a65-9b09-3d577f977f57" name="PHP" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
 </application>
