@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="queue" type="PHP" />
+      <mapping pattern="import" type="PHP" />
+      <mapping pattern="worker" type="PHP" />
       <mapping pattern=".composer" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
