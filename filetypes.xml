@@ -4,6 +4,7 @@
       <mapping pattern="queue" type="PHP" />
       <mapping pattern="import" type="PHP" />
       <mapping pattern="worker" type="PHP" />
+      <mapping pattern=".env.default" type="PLAIN_TEXT" />
       <mapping pattern=".composer" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
