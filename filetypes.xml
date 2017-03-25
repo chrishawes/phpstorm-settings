@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="test" type="PHP" />
       <mapping pattern="queue" type="PHP" />
       <mapping pattern="import" type="PHP" />
       <mapping pattern="import_scores" type="PHP" />
