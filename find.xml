@@ -26,8 +26,8 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
-      <mask>*.yml</mask>
       <mask>*.js</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
