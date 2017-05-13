@@ -4,13 +4,6 @@
       <PhpCSConfiguration />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="docker://chrishawes/php7-redis:latest/php" id="5c2ba3fc-3577-4830-b7f1-a464726d65a7" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="chrishawes/php7-redis:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7.1">
