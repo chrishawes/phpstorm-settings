@@ -18,16 +18,16 @@
       <mask>index.twig</mask>
       <mask>*.twig,*.js</mask>
       <mask>*.ym</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twig</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.yml</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twig</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
