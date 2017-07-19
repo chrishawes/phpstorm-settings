@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,10 +22,7 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.t</mask>
       <mask>*.tw</mask>
-      <mask>*.twig</mask>
-      <mask>*.php</mask>
       <mask>*.yaml</mask>
       <mask>*.yam</mask>
       <mask>*.ya</mask>
@@ -33,6 +30,10 @@
       <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.twig</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
