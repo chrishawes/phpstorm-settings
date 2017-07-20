@@ -18,15 +18,20 @@
       <mask>*.es6</mask>
       <mask>index.twig</mask>
       <mask>*.twig,*.js</mask>
-      <mask>*.ym</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.js</mask>
-      <mask>*.yml</mask>
-      <mask>*.t</mask>
       <mask>*.tw</mask>
+      <mask>*.yaml</mask>
+      <mask>*.yam</mask>
+      <mask>*.ya</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
+      <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
       <mask>*.twig</mask>
       <mask>*.php</mask>
     </recentFileMasks>
