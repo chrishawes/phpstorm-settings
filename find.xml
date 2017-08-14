@@ -31,11 +31,11 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.twi</mask>
+      <mask>*.js</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
-      <mask>*.twi</mask>
       <mask>*.twig</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
