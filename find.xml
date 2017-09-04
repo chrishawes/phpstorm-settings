@@ -2,9 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
@@ -22,9 +20,7 @@
       <mask>*.yaml</mask>
       <mask>*.yam</mask>
       <mask>*.ya</mask>
-      <mask>*.y</mask>
       <mask>*.ym</mask>
-      <mask>*.yml</mask>
       <mask>*.json</mask>
       <mask>*t</mask>
       <mask>*twi</mask>
@@ -38,6 +34,8 @@
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twig</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
