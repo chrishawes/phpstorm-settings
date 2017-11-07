@@ -2,16 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.es6</mask>
-      <mask>index.twig</mask>
-      <mask>*.twig,*.js</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
@@ -38,6 +32,10 @@
       <mask>*.yml</mask>
       <mask>uti</mask>
       <mask>*.js</mask>
+      <mask>*.conf</mask>
+      <mask>v</mask>
+      <mask>vc</mask>
+      <mask>vcl</mask>
     </recentFileMasks>
   </component>
 </application>
