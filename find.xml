@@ -5,8 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.yaml</mask>
       <mask>*.yam</mask>
@@ -17,7 +17,6 @@
       <mask>*twi</mask>
       <mask>*twig</mask>
       <mask>*.j</mask>
-      <mask>*.php</mask>
       <mask>*.twi</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
@@ -36,6 +35,8 @@
       <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
