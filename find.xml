@@ -6,7 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.ym</mask>
       <mask>*.json</mask>
       <mask>*t</mask>
       <mask>*twi</mask>
@@ -20,7 +19,6 @@
       <mask>v</mask>
       <mask>vc</mask>
       <mask>vcl</mask>
-      <mask>*.s</mask>
       <mask>*.twi</mask>
       <mask>*V.js</mask>
       <mask>*Vie.js</mask>
@@ -33,9 +31,11 @@
       <mask>*.twig</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>*tw</mask>
       <mask>*twig</mask>
+      <mask>*</mask>
+      <mask>*.s</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
