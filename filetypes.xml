@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="migrate" type="PHP" />
+      <mapping pattern="indexMembers" type="PHP" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="MYSQL_PASSWORD" type="PLAIN_TEXT" />
       <mapping pattern="REDIS_PORT" type="PLAIN_TEXT" />
