@@ -8,6 +8,7 @@
       <mapping pattern="MYSQL_PASSWORD" type="PLAIN_TEXT" />
       <mapping pattern="REDIS_PORT" type="PLAIN_TEXT" />
       <mapping pattern="API_PASS" type="PLAIN_TEXT" />
+      <mapping pattern="REDIS_HOST" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-nginx" type="PLAIN_TEXT" />
       <mapping pattern="MYSQL_PASSWORD_LIVE" type="PLAIN_TEXT" />
       <mapping pattern="MYSQL_USER" type="PLAIN_TEXT" />
@@ -16,10 +17,9 @@
       <mapping pattern="ELASTICSEARCH_HOSTS" type="PLAIN_TEXT" />
       <mapping pattern="API_USER" type="PLAIN_TEXT" />
       <mapping pattern="MYSQL_HOST" type="PLAIN_TEXT" />
-      <mapping pattern="MYSQL_DATABASE" type="PLAIN_TEXT" />
       <mapping pattern="API_HOST" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-php" type="PLAIN_TEXT" />
-      <mapping pattern="REDIS_HOST" type="PLAIN_TEXT" />
+      <mapping pattern="MYSQL_DATABASE" type="PLAIN_TEXT" />
       <mapping pattern="MYSQL_USER_LIVE" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-supervisor" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
