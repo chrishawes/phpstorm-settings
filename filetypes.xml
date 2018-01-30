@@ -10,6 +10,7 @@
       <mapping pattern="API_PASS" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-nginx" type="PLAIN_TEXT" />
       <mapping pattern="MYSQL_PASSWORD_LIVE" type="PLAIN_TEXT" />
+      <mapping pattern="FAKTORY_PORT" type="PLAIN_TEXT" />
       <mapping pattern="REDIS" type="PLAIN_TEXT" />
       <mapping pattern="MYSQL_USER" type="PLAIN_TEXT" />
       <mapping pattern="FAAS_USER" type="PLAIN_TEXT" />
