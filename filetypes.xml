@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="migrate" type="PHP" />
+      <mapping pattern="worker" type="PHP" />
       <mapping pattern="indexMembers" type="PHP" />
       <mapping pattern="FAKTORY_PASSWORD" type="PLAIN_TEXT" />
       <mapping pattern="MYSQL_DATABASE_TEST" type="PLAIN_TEXT" />
