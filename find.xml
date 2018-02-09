@@ -1,41 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="JS Functiona Tests" />
-    <option name="defaultScopeName" value="JS Functiona Tests" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="JS Functiona Tests" />
-    <recentFileMasks>
-      <mask>*.*</mask>
-      <mask>*.h</mask>
-      <mask>uti</mask>
-      <mask>*.conf</mask>
-      <mask>v</mask>
-      <mask>vc</mask>
-      <mask>vcl</mask>
-      <mask>*.twi</mask>
-      <mask>*V.js</mask>
-      <mask>*Vie.js</mask>
-      <mask>*View.js</mask>
-      <mask>*.yml</mask>
-      <mask>*.ph</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*tw</mask>
-      <mask>*twig</mask>
-      <mask>*.sql</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*r.js</mask>
-      <mask>*row.js</mask>
-      <mask>*row*.js</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.php</mask>
-      <mask>*.scss</mask>
-      <mask>*.twig</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
